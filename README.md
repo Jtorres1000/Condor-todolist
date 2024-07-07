@@ -4,3 +4,5 @@ Una To do list con dos secciones una donde se pueden agregar, eliminar, editar y
 
 Para esta aplicación decidí utilizar React, tailwindCSS y DaisyUI.
 La aplicación es nétamente de front-end.
+
+Link en netlify: https://condortodo.netlify.app/
